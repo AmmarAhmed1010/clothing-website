@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "/",
+    "/shop",
+    "/products/everyday-tee",
+    "/checkout"
+  ],
+  "productionHydration": "passed",
+  "images": "all rendered images loaded",
+  "layout": "no desktop overflow",
+  "errors": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "editorial-woman.jpg",
+    "source": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1600&q=85",
+    "bytes": 664713,
+    "rights": "Unsplash License; stock illustration, no endorsement implied"
+  },
+  {
+    "file": "editorial-man.jpg",
+    "source": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1200&q=85",
+    "bytes": 330396,
+    "rights": "Unsplash License; stock illustration, no endorsement implied"
+  },
+  {
+    "file": "detail.jpg",
+    "source": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=85",
+    "bytes": 117381,
+    "rights": "Unsplash License; stock illustration, no endorsement implied"
+  }
+]

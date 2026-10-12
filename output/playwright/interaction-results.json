@@ -1,0 +1,10 @@
+[
+  {
+    "site": "clothing-website",
+    "checks": "Mobile menu opens, Escape closes and returns focus, keyboard focus outline, reduced-motion content visible, homepage images load, no failed asset requests"
+  },
+  {
+    "site": "clothing-website",
+    "checks": "Unavailable XL color variant disabled; back gallery updates; category filter and price sort; malformed saved confirmation handled"
+  }
+]

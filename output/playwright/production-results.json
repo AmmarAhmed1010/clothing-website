@@ -1,0 +1,8 @@
+{
+  "site": "clothing-website",
+  "routes": 49,
+  "internalLinks": 1749,
+  "localAssets": 0,
+  "productionHttp": "passed",
+  "unknownRoute404": "passed"
+}

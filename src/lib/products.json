@@ -1,0 +1,804 @@
+[
+  {
+    "id": "f001",
+    "slug": "everyday-tee",
+    "name": "The everyday tee",
+    "gender": "men",
+    "category": "t-shirts",
+    "price": 249000,
+    "description": "Relaxed organic cotton jersey, with a clean neckline and an easy fit.",
+    "colors": [
+      "Chalk",
+      "Ink"
+    ],
+    "collections": [
+      "casual",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/everyday-tee-chalk.svg",
+      "/catalog/everyday-tee-chalk-back.svg",
+      "/catalog/everyday-tee-ink.svg",
+      "/catalog/everyday-tee-ink-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f002",
+    "slug": "linen-shirt",
+    "name": "The linen shirt",
+    "gender": "men",
+    "category": "shirts",
+    "price": 499000,
+    "description": "Breathable linen with a relaxed collar and natural texture.",
+    "colors": [
+      "Oat",
+      "Olive"
+    ],
+    "collections": [
+      "casual",
+      "western",
+      "seasonal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/linen-shirt-oat.svg",
+      "/catalog/linen-shirt-oat-back.svg",
+      "/catalog/linen-shirt-olive.svg",
+      "/catalog/linen-shirt-olive-back.svg"
+    ],
+    "material": "Linen blend",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f003",
+    "slug": "straight-jean",
+    "name": "The straight jean",
+    "gender": "men",
+    "category": "jeans",
+    "price": 549000,
+    "description": "Straight-leg denim with a considered everyday silhouette.",
+    "colors": [
+      "Indigo",
+      "Ink"
+    ],
+    "collections": [
+      "casual",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/straight-jean-indigo.svg",
+      "/catalog/straight-jean-indigo-back.svg",
+      "/catalog/straight-jean-ink.svg",
+      "/catalog/straight-jean-ink-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f004",
+    "slug": "tailored-trouser",
+    "name": "The tailored trouser",
+    "gender": "men",
+    "category": "trousers",
+    "price": 599000,
+    "description": "A clean crease, comfortable waist and versatile tapered leg.",
+    "colors": [
+      "Stone",
+      "Ink"
+    ],
+    "collections": [
+      "formal",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/tailored-trouser-stone.svg",
+      "/catalog/tailored-trouser-stone-back.svg",
+      "/catalog/tailored-trouser-ink.svg",
+      "/catalog/tailored-trouser-ink-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f005",
+    "slug": "relaxed-pant",
+    "name": "The relaxed pant",
+    "gender": "men",
+    "category": "pants",
+    "price": 449000,
+    "description": "A soft cotton pant with a generous cut for off-duty days.",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "collections": [
+      "casual",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/relaxed-pant-olive.svg",
+      "/catalog/relaxed-pant-olive-back.svg",
+      "/catalog/relaxed-pant-stone.svg",
+      "/catalog/relaxed-pant-stone-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f006",
+    "slug": "classic-shalwar-suit",
+    "name": "The classic shalwar suit",
+    "gender": "men",
+    "category": "shalwar-kameez",
+    "price": 749000,
+    "description": "A two-piece shalwar kameez in breathable blended cotton.",
+    "colors": [
+      "Chalk",
+      "Ink"
+    ],
+    "collections": [
+      "eastern",
+      "traditional",
+      "formal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/classic-shalwar-suit-chalk.svg",
+      "/catalog/classic-shalwar-suit-chalk-back.svg",
+      "/catalog/classic-shalwar-suit-ink.svg",
+      "/catalog/classic-shalwar-suit-ink-back.svg"
+    ],
+    "material": "Cotton blend",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f007",
+    "slug": "textured-kurta",
+    "name": "The textured kurta",
+    "gender": "men",
+    "category": "eastern-wear",
+    "price": 499000,
+    "description": "A long, lightly textured kurta with understated detailing.",
+    "colors": [
+      "Oat",
+      "Olive"
+    ],
+    "collections": [
+      "eastern",
+      "traditional",
+      "casual"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/textured-kurta-oat.svg",
+      "/catalog/textured-kurta-oat-back.svg",
+      "/catalog/textured-kurta-olive.svg",
+      "/catalog/textured-kurta-olive-back.svg"
+    ],
+    "material": "Cotton blend",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f008",
+    "slug": "weekend-tee",
+    "name": "The weekend tee",
+    "gender": "men",
+    "category": "t-shirts",
+    "price": 299000,
+    "description": "Soft jersey in a slightly boxy shape with a ribbed neckline.",
+    "colors": [
+      "Stone",
+      "Olive"
+    ],
+    "collections": [
+      "casual",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/weekend-tee-stone.svg",
+      "/catalog/weekend-tee-stone-back.svg",
+      "/catalog/weekend-tee-olive.svg",
+      "/catalog/weekend-tee-olive-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f009",
+    "slug": "poplin-shirt",
+    "name": "The poplin shirt",
+    "gender": "men",
+    "category": "shirts",
+    "price": 459000,
+    "description": "Crisp poplin, a classic collar and neat buttoned cuffs.",
+    "colors": [
+      "Chalk",
+      "Indigo"
+    ],
+    "collections": [
+      "formal",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/poplin-shirt-chalk.svg",
+      "/catalog/poplin-shirt-chalk-back.svg",
+      "/catalog/poplin-shirt-indigo.svg",
+      "/catalog/poplin-shirt-indigo-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f010",
+    "slug": "dark-denim",
+    "name": "The dark denim",
+    "gender": "men",
+    "category": "jeans",
+    "price": 649000,
+    "description": "Dark-wash denim with a straight profile and minimal detail.",
+    "colors": [
+      "Ink",
+      "Indigo"
+    ],
+    "collections": [
+      "casual",
+      "western",
+      "seasonal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/dark-denim-ink.svg",
+      "/catalog/dark-denim-ink-back.svg",
+      "/catalog/dark-denim-indigo.svg",
+      "/catalog/dark-denim-indigo-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f011",
+    "slug": "evening-kameez",
+    "name": "The evening kameez",
+    "gender": "men",
+    "category": "shalwar-kameez",
+    "price": 849000,
+    "description": "An understated Eastern two-piece for considered occasions.",
+    "colors": [
+      "Ink",
+      "Oat"
+    ],
+    "collections": [
+      "eastern",
+      "traditional",
+      "formal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/evening-kameez-ink.svg",
+      "/catalog/evening-kameez-ink-back.svg",
+      "/catalog/evening-kameez-oat.svg",
+      "/catalog/evening-kameez-oat-back.svg"
+    ],
+    "material": "Cotton blend",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f012",
+    "slug": "autumn-overshirt",
+    "name": "The autumn overshirt",
+    "gender": "men",
+    "category": "shirts",
+    "price": 699000,
+    "description": "A structured cotton layer with roomy sleeves and utility pockets.",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "collections": [
+      "western",
+      "casual",
+      "seasonal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/autumn-overshirt-olive.svg",
+      "/catalog/autumn-overshirt-olive-back.svg",
+      "/catalog/autumn-overshirt-stone.svg",
+      "/catalog/autumn-overshirt-stone-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f013",
+    "slug": "linen-co-ord",
+    "name": "The linen co-ord",
+    "gender": "women",
+    "category": "western-wear",
+    "price": 799000,
+    "description": "A matching linen top and relaxed trouser, made for easy dressing.",
+    "colors": [
+      "Oat",
+      "Ink"
+    ],
+    "collections": [
+      "western",
+      "casual",
+      "seasonal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/linen-co-ord-oat.svg",
+      "/catalog/linen-co-ord-oat-back.svg",
+      "/catalog/linen-co-ord-ink.svg",
+      "/catalog/linen-co-ord-ink-back.svg"
+    ],
+    "material": "Linen blend",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f014",
+    "slug": "everyday-kurta",
+    "name": "The everyday kurta",
+    "gender": "women",
+    "category": "eastern-wear",
+    "price": 499000,
+    "description": "An easy longline kurta with a softly structured neckline.",
+    "colors": [
+      "Rose",
+      "Chalk"
+    ],
+    "collections": [
+      "eastern",
+      "casual"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/everyday-kurta-rose.svg",
+      "/catalog/everyday-kurta-rose-back.svg",
+      "/catalog/everyday-kurta-chalk.svg",
+      "/catalog/everyday-kurta-chalk-back.svg"
+    ],
+    "material": "Cotton blend",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f015",
+    "slug": "silk-look-set",
+    "name": "The silk-look set",
+    "gender": "women",
+    "category": "formal-wear",
+    "price": 999000,
+    "description": "A fluid occasion set with a subtle sheen and tailored proportions.",
+    "colors": [
+      "Burgundy",
+      "Oat"
+    ],
+    "collections": [
+      "formal",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/silk-look-set-burgundy.svg",
+      "/catalog/silk-look-set-burgundy-back.svg",
+      "/catalog/silk-look-set-oat.svg",
+      "/catalog/silk-look-set-oat-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f016",
+    "slug": "embroidered-suit",
+    "name": "The embroidered suit",
+    "gender": "women",
+    "category": "shalwar-kameez",
+    "price": 1199000,
+    "description": "A two-piece Eastern suit with tonal embroidery at the neckline.",
+    "colors": [
+      "Olive",
+      "Rose"
+    ],
+    "collections": [
+      "eastern",
+      "formal",
+      "traditional"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/embroidered-suit-olive.svg",
+      "/catalog/embroidered-suit-olive-back.svg",
+      "/catalog/embroidered-suit-rose.svg",
+      "/catalog/embroidered-suit-rose-back.svg"
+    ],
+    "material": "Cotton blend",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f017",
+    "slug": "soft-cotton-tee",
+    "name": "The soft cotton tee",
+    "gender": "women",
+    "category": "casual-wear",
+    "price": 249000,
+    "description": "A simple cotton tee with a comfortable, slightly relaxed fit.",
+    "colors": [
+      "Chalk",
+      "Rose"
+    ],
+    "collections": [
+      "casual",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/soft-cotton-tee-chalk.svg",
+      "/catalog/soft-cotton-tee-chalk-back.svg",
+      "/catalog/soft-cotton-tee-rose.svg",
+      "/catalog/soft-cotton-tee-rose-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f018",
+    "slug": "autumn-layer",
+    "name": "The autumn layer",
+    "gender": "women",
+    "category": "seasonal",
+    "price": 649000,
+    "description": "A softly structured layer in a tactile cotton blend.",
+    "colors": [
+      "Stone",
+      "Burgundy"
+    ],
+    "collections": [
+      "western",
+      "casual",
+      "seasonal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/autumn-layer-stone.svg",
+      "/catalog/autumn-layer-stone-back.svg",
+      "/catalog/autumn-layer-burgundy.svg",
+      "/catalog/autumn-layer-burgundy-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f019",
+    "slug": "pleated-trouser",
+    "name": "The pleated trouser",
+    "gender": "women",
+    "category": "western-wear",
+    "price": 549000,
+    "description": "A high-waist trouser with gentle pleats and a wide leg.",
+    "colors": [
+      "Oat",
+      "Ink"
+    ],
+    "collections": [
+      "western",
+      "formal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/pleated-trouser-oat.svg",
+      "/catalog/pleated-trouser-oat-back.svg",
+      "/catalog/pleated-trouser-ink.svg",
+      "/catalog/pleated-trouser-ink-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f020",
+    "slug": "evening-kurta",
+    "name": "The evening kurta",
+    "gender": "women",
+    "category": "eastern-wear",
+    "price": 899000,
+    "description": "An elegant longline kurta with fine tonal neckline detail.",
+    "colors": [
+      "Burgundy",
+      "Ink"
+    ],
+    "collections": [
+      "eastern",
+      "formal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/evening-kurta-burgundy.svg",
+      "/catalog/evening-kurta-burgundy-back.svg",
+      "/catalog/evening-kurta-ink.svg",
+      "/catalog/evening-kurta-ink-back.svg"
+    ],
+    "material": "Cotton blend",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f021",
+    "slug": "everyday-two-piece",
+    "name": "The everyday two-piece",
+    "gender": "women",
+    "category": "shalwar-kameez",
+    "price": 799000,
+    "description": "A breathable shalwar kameez set for everyday versatility.",
+    "colors": [
+      "Chalk",
+      "Olive"
+    ],
+    "collections": [
+      "eastern",
+      "casual"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/everyday-two-piece-chalk.svg",
+      "/catalog/everyday-two-piece-chalk-back.svg",
+      "/catalog/everyday-two-piece-olive.svg",
+      "/catalog/everyday-two-piece-olive-back.svg"
+    ],
+    "material": "Cotton blend",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f022",
+    "slug": "relaxed-blouse",
+    "name": "The relaxed blouse",
+    "gender": "women",
+    "category": "casual-wear",
+    "price": 449000,
+    "description": "A fluid blouse with a neat collar and soft gathering.",
+    "colors": [
+      "Rose",
+      "Oat"
+    ],
+    "collections": [
+      "casual",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/relaxed-blouse-rose.svg",
+      "/catalog/relaxed-blouse-rose-back.svg",
+      "/catalog/relaxed-blouse-oat.svg",
+      "/catalog/relaxed-blouse-oat-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": true
+  },
+  {
+    "id": "f023",
+    "slug": "occasion-dress",
+    "name": "The occasion dress",
+    "gender": "women",
+    "category": "formal-wear",
+    "price": 1099000,
+    "description": "A midi-length dress with a gathered waist and gentle drape.",
+    "colors": [
+      "Ink",
+      "Burgundy"
+    ],
+    "collections": [
+      "formal",
+      "western"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/occasion-dress-ink.svg",
+      "/catalog/occasion-dress-ink-back.svg",
+      "/catalog/occasion-dress-burgundy.svg",
+      "/catalog/occasion-dress-burgundy-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  },
+  {
+    "id": "f024",
+    "slug": "winter-co-ord",
+    "name": "The winter co-ord",
+    "gender": "women",
+    "category": "seasonal",
+    "price": 899000,
+    "description": "A softly brushed matching set for cooler days.",
+    "colors": [
+      "Stone",
+      "Burgundy"
+    ],
+    "collections": [
+      "western",
+      "casual",
+      "seasonal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/catalog/winter-co-ord-stone.svg",
+      "/catalog/winter-co-ord-stone-back.svg",
+      "/catalog/winter-co-ord-burgundy.svg",
+      "/catalog/winter-co-ord-burgundy-back.svg"
+    ],
+    "material": "Cotton and blended fibres",
+    "stock": 5,
+    "new": false
+  }
+]
